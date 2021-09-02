@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Epsic.Info3e.Labo2\Epsic.Info3e.Labo2.csproj" />
+    <ProjectReference Include="..\Epsic.Info3Dev.Labo2\Epsic.Info3Dev.Labo2.csproj" />
   </ItemGroup>
 
 </Project>

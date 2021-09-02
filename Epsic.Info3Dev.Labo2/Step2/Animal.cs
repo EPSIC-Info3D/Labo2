@@ -1,4 +1,4 @@
-namespace Epsic.Info3e.Labo2.Step2
+namespace Epsic.Info3Dev.Labo2.Step2
 {
     public abstract class Animal
     {

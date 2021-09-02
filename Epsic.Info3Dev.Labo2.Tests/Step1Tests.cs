@@ -1,8 +1,8 @@
-// namespace Epsic.Info3e.Labo2.Tests
+// namespace Epsic.Info3Dev.Labo2.Tests
 // {
 //     using System.Collections.Generic;
 //     using System.Linq;
-//     using Epsic.Info3e.Labo2.Step1;
+//     using Epsic.Info3Dev.Labo2.Step1;
 //     using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 //     [TestClass]
