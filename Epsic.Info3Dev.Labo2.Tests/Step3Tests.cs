@@ -15,7 +15,7 @@
 //         }
 
 //         [TestMethod, TestCategory("Step3")]
-//         public void DocumentNameCreatorDontHeritsCounte2r() 
+//         public void DocumentNameCreatorDontImplementsGetNewDocumentName() 
 //         {
 //             var result = typeof(Counter).GetMethod("GetNewDocumentName");
 
